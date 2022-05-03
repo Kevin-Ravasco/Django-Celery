@@ -1,4 +1,4 @@
-# Django Celery Integration
+# Django Celery Integration & Running Background Tasks
 This is a simple project to illustrate running background tasks in django using celery.
 
 #### Features
@@ -8,7 +8,7 @@ This is a simple project to illustrate running background tasks in django using 
 - Storing results of tasks in django database
 - Using Redis and RabbitMQ as brokers in django
 
-## Notes on How to Run
+## Notes on Running Background Tasks
 
 Installing the required packages:
 
