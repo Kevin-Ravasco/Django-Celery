@@ -1,4 +1,14 @@
-# Personal Notes on How to Run
+# Django Celery Integration
+This is a simple project to illustrate running background tasks in django using celery.
+
+#### Features
+- Running background tasks in django
+- Scheduling tasks to run periodically (at certain times, certain days, certain itervals or in solar schedules)
+- Scheduling periodic tasks from django admin
+- Storing results of tasks in django database
+- Using Redis and RabbitMQ as brokers in django
+
+## Notes on How to Run
 
 Installing the required packages:
 
